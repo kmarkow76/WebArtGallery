@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using ArtGallery.DTO;
 using ArtGallery.DTO.Paintings;
-using ArtGallery.Interfaces.ServicesInterfaces;
+using ArtGallery.Interfaces.IServices;
 using Microsoft.EntityFrameworkCore;
 
 namespace ArtGallery.Core.Controllers;

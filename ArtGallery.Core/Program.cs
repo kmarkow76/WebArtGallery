@@ -1,6 +1,6 @@
 using ArtGallery.Data;
-using ArtGallery.Interfaces.Repositories;
-using ArtGallery.Interfaces.ServicesInterfaces;
+using ArtGallery.Interfaces.IRepositories;
+using ArtGallery.Interfaces.IServices;
 using ArtGallery.Repositories.Repositories;
 using ArtGallery.Services.Services;
 using Microsoft.EntityFrameworkCore;

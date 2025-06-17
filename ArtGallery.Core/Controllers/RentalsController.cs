@@ -1,5 +1,5 @@
 using ArtGallery.DTO.Rentals;
-using ArtGallery.Interfaces.ServicesInterfaces;
+using ArtGallery.Interfaces.IServices;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ArtGallery.Core.Controllers;
